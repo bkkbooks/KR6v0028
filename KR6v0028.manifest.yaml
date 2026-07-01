@@ -1,0 +1,3603 @@
+canonical_identifier: bkk:krp/KR6v0028/v1
+canonical_location: https://kanripo.org/bkk/KR6v0028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 諦義證得經
+  identifiers:
+    alt_id:
+    - W02n0021
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW02/ZW02n0021.xml
+    old_id: ZW02n0021
+  edition:
+    short: bkk
+editions:
+- short: 藏外
+  label: 藏外
+  source_xml_id: wit.orig
+- short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0028_000.yaml, hash: 'sha256:f00f873c9fa3d1dbf3bcdc89462085c9bbfb74a88278a7311f9c05ce34fac9b7'}
+  - {seq: 1, filename: KR6v0028_001.yaml, hash: 'sha256:3333740d1dbfb92f42d384f0ab8c9a123e7a4505a77eddcc043a2ae00e8a2864'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0028_000.markers.yaml, hash: 'sha256:a565fdbefe7362d994dd09b4227ca3e3daeb03646ae208f42f9cff404f9a9893'}
+  - {seq: 1, role: markers, filename: assets/KR6v0028_001.markers.yaml, hash: 'sha256:1ca1063cd339e69e50a048477a4616462e22b7abb2c8bb6b790421e112446736'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0028_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0028_ZW_000-mulu-2
+    span:
+    - front
+    - 1833
+    - 1833
+  label: 正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 36280
+  label: 諦義證得經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: §1.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-3
+    span:
+    - body
+    - 473
+    - 473
+  label: §1.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-4
+    span:
+    - body
+    - 552
+    - 552
+  label: §1.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-5
+    span:
+    - body
+    - 724
+    - 724
+  label: §1.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-6
+    span:
+    - body
+    - 1236
+    - 1236
+  label: §1.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-7
+    span:
+    - body
+    - 1445
+    - 1445
+  label: §1.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-8
+    span:
+    - body
+    - 1548
+    - 1548
+  label: §1.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-9
+    span:
+    - body
+    - 1567
+    - 1567
+  label: §1.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-10
+    span:
+    - body
+    - 1931
+    - 1931
+  label: §1.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-11
+    span:
+    - body
+    - 2339
+    - 2339
+  label: §1.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-12
+    span:
+    - body
+    - 2345
+    - 2345
+  label: §1.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-13
+    span:
+    - body
+    - 2352
+    - 2352
+  label: §1.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-14
+    span:
+    - body
+    - 2669
+    - 2669
+  label: §1.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-15
+    span:
+    - body
+    - 2737
+    - 2737
+  label: §1.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-16
+    span:
+    - body
+    - 2883
+    - 2883
+  label: §1.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-17
+    span:
+    - body
+    - 3071
+    - 3071
+  label: §1.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-18
+    span:
+    - body
+    - 3237
+    - 3237
+  label: §1.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-19
+    span:
+    - body
+    - 3247
+    - 3247
+  label: §1.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-20
+    span:
+    - body
+    - 3263
+    - 3263
+  label: §1.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-21
+    span:
+    - body
+    - 3422
+    - 3422
+  label: §1.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-22
+    span:
+    - body
+    - 3541
+    - 3541
+  label: §1.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-23
+    span:
+    - body
+    - 3547
+    - 3547
+  label: §1.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-24
+    span:
+    - body
+    - 3564
+    - 3564
+  label: §1.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-25
+    span:
+    - body
+    - 3847
+    - 3847
+  label: §1.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-26
+    span:
+    - body
+    - 3942
+    - 3942
+  label: §1.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-27
+    span:
+    - body
+    - 4001
+    - 4001
+  label: §1.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-28
+    span:
+    - body
+    - 4126
+    - 4126
+  label: §1.27
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-29
+    span:
+    - body
+    - 4205
+    - 4205
+  label: §1.28
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-30
+    span:
+    - body
+    - 4294
+    - 4294
+  label: §1.29
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-31
+    span:
+    - body
+    - 4390
+    - 4390
+  label: §1.30
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-32
+    span:
+    - body
+    - 4474
+    - 4474
+  label: §1.31
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-33
+    span:
+    - body
+    - 4701
+    - 4701
+  label: §1.32
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-34
+    span:
+    - body
+    - 4714
+    - 4714
+  label: §1.33
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-35
+    span:
+    - body
+    - 4853
+    - 4853
+  label: §1.34
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-36
+    span:
+    - body
+    - 5488
+    - 5488
+  label: §1.35
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-37
+    span:
+    - body
+    - 5623
+    - 5623
+  label: 第二章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-38
+    span:
+    - body
+    - 5626
+    - 5626
+  label: §2.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-39
+    span:
+    - body
+    - 5847
+    - 5847
+  label: §2.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-40
+    span:
+    - body
+    - 5932
+    - 5932
+  label: §2.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-41
+    span:
+    - body
+    - 6016
+    - 6016
+  label: §2.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-42
+    span:
+    - body
+    - 6369
+    - 6369
+  label: §2.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-43
+    span:
+    - body
+    - 6654
+    - 6654
+  label: §2.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-44
+    span:
+    - body
+    - 6832
+    - 6832
+  label: §2.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-45
+    span:
+    - body
+    - 6972
+    - 6972
+  label: §2.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-46
+    span:
+    - body
+    - 7051
+    - 7051
+  label: §2.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-47
+    span:
+    - body
+    - 7147
+    - 7147
+  label: §2.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-48
+    span:
+    - body
+    - 7273
+    - 7273
+  label: §2.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-49
+    span:
+    - body
+    - 7320
+    - 7320
+  label: §2.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-50
+    span:
+    - body
+    - 7333
+    - 7333
+  label: §2.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-51
+    span:
+    - body
+    - 7341
+    - 7341
+  label: §2.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-52
+    span:
+    - body
+    - 7480
+    - 7480
+  label: §2.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-53
+    span:
+    - body
+    - 7488
+    - 7488
+  label: §2.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-54
+    span:
+    - body
+    - 7492
+    - 7492
+  label: §2.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-55
+    span:
+    - body
+    - 7503
+    - 7503
+  label: §2.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-56
+    span:
+    - body
+    - 7754
+    - 7754
+  label: §2.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-57
+    span:
+    - body
+    - 7846
+    - 7846
+  label: §2.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-58
+    span:
+    - body
+    - 7854
+    - 7854
+  label: §2.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-59
+    span:
+    - body
+    - 7911
+    - 7911
+  label: §2.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-60
+    span:
+    - body
+    - 8006
+    - 8006
+  label: §2.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-61
+    span:
+    - body
+    - 8177
+    - 8177
+  label: §2.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-62
+    span:
+    - body
+    - 8239
+    - 8239
+  label: §2.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-63
+    span:
+    - body
+    - 8365
+    - 8365
+  label: §2.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-64
+    span:
+    - body
+    - 8496
+    - 8496
+  label: §2.27
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-65
+    span:
+    - body
+    - 8548
+    - 8548
+  label: §2.28
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-66
+    span:
+    - body
+    - 8558
+    - 8558
+  label: §2.29
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-67
+    span:
+    - body
+    - 8666
+    - 8666
+  label: §2.30
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-68
+    span:
+    - body
+    - 8817
+    - 8817
+  label: §2.31
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-69
+    span:
+    - body
+    - 8890
+    - 8890
+  label: §2.32
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-70
+    span:
+    - body
+    - 9017
+    - 9017
+  label: §2.33
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-71
+    span:
+    - body
+    - 9174
+    - 9174
+  label: §2.34
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-72
+    span:
+    - body
+    - 9295
+    - 9295
+  label: §2.35
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-73
+    span:
+    - body
+    - 9362
+    - 9362
+  label: §2.36
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-74
+    span:
+    - body
+    - 9392
+    - 9392
+  label: §2.37
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-75
+    span:
+    - body
+    - 9576
+    - 9576
+  label: §2.38
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-76
+    span:
+    - body
+    - 9617
+    - 9617
+  label: §2.39
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-77
+    span:
+    - body
+    - 9705
+    - 9705
+  label: §2.40
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-78
+    span:
+    - body
+    - 9798
+    - 9798
+  label: §2.41
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-79
+    span:
+    - body
+    - 9894
+    - 9894
+  label: §2.42
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-80
+    span:
+    - body
+    - 9905
+    - 9905
+  label: §2.43
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-81
+    span:
+    - body
+    - 9987
+    - 9987
+  label: §2.44
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-82
+    span:
+    - body
+    - 10074
+    - 10074
+  label: §2.45
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-83
+    span:
+    - body
+    - 10092
+    - 10092
+  label: §2.46
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-84
+    span:
+    - body
+    - 10113
+    - 10113
+  label: §2.47
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-85
+    span:
+    - body
+    - 10134
+    - 10134
+  label: §2.48
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-86
+    span:
+    - body
+    - 10312
+    - 10312
+  label: §2.49
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-87
+    span:
+    - body
+    - 10635
+    - 10635
+  label: §2.50
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-88
+    span:
+    - body
+    - 10669
+    - 10669
+  label: §2.51
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-89
+    span:
+    - body
+    - 10726
+    - 10726
+  label: §2.52
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-90
+    span:
+    - body
+    - 10942
+    - 10942
+  label: 第三章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-91
+    span:
+    - body
+    - 10945
+    - 10945
+  label: §3.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-92
+    span:
+    - body
+    - 11162
+    - 11162
+  label: §3.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-93
+    span:
+    - body
+    - 11217
+    - 11217
+  label: §3.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-94
+    span:
+    - body
+    - 11277
+    - 11277
+  label: §3.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-95
+    span:
+    - body
+    - 11306
+    - 11306
+  label: §3.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-96
+    span:
+    - body
+    - 11385
+    - 11385
+  label: §3.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-97
+    span:
+    - body
+    - 11467
+    - 11467
+  label: §3.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-98
+    span:
+    - body
+    - 11485
+    - 11485
+  label: §3.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-99
+    span:
+    - body
+    - 11648
+    - 11648
+  label: §3.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-100
+    span:
+    - body
+    - 11712
+    - 11712
+  label: §3.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-101
+    span:
+    - body
+    - 11840
+    - 11840
+  label: §3.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-102
+    span:
+    - body
+    - 13340
+    - 13340
+  label: §3.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-103
+    span:
+    - body
+    - 13379
+    - 13379
+  label: §3.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-104
+    span:
+    - body
+    - 13435
+    - 13435
+  label: §3.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-105
+    span:
+    - body
+    - 13503
+    - 13503
+  label: §3.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-106
+    span:
+    - body
+    - 13593
+    - 13593
+  label: §3.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-107
+    span:
+    - body
+    - 13658
+    - 13658
+  label: §3.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-108
+    span:
+    - body
+    - 13731
+    - 13731
+  label: §3.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-109
+    span:
+    - body
+    - 13775
+    - 13775
+  label: 第四章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-110
+    span:
+    - body
+    - 13778
+    - 13778
+  label: §4.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-111
+    span:
+    - body
+    - 13813
+    - 13813
+  label: §4.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-112
+    span:
+    - body
+    - 13889
+    - 13889
+  label: §4.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-113
+    span:
+    - body
+    - 13957
+    - 13957
+  label: §4.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-114
+    span:
+    - body
+    - 14092
+    - 14092
+  label: §4.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-115
+    span:
+    - body
+    - 14133
+    - 14133
+  label: §4.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-116
+    span:
+    - body
+    - 14222
+    - 14222
+  label: §4.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-117
+    span:
+    - body
+    - 14332
+    - 14332
+  label: §4.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-118
+    span:
+    - body
+    - 14398
+    - 14398
+  label: §4.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-119
+    span:
+    - body
+    - 14486
+    - 14486
+  label: §4.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-120
+    span:
+    - body
+    - 14508
+    - 14508
+  label: §4.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-121
+    span:
+    - body
+    - 14611
+    - 14611
+  label: §4.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-122
+    span:
+    - body
+    - 14691
+    - 14691
+  label: §4.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-123
+    span:
+    - body
+    - 14733
+    - 14733
+  label: §4.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-124
+    span:
+    - body
+    - 14749
+    - 14749
+  label: §4.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-125
+    span:
+    - body
+    - 14758
+    - 14758
+  label: §4.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-126
+    span:
+    - body
+    - 14853
+    - 14853
+  label: §4.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-127
+    span:
+    - body
+    - 14856
+    - 14856
+  label: §4.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-128
+    span:
+    - body
+    - 14869
+    - 14869
+  label: §4.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-129
+    span:
+    - body
+    - 14876
+    - 14876
+  label: §4.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-130
+    span:
+    - body
+    - 15204
+    - 15204
+  label: §4.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-131
+    span:
+    - body
+    - 15273
+    - 15273
+  label: §4.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-132
+    span:
+    - body
+    - 15435
+    - 15435
+  label: §4.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-133
+    span:
+    - body
+    - 15502
+    - 15502
+  label: §4.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-134
+    span:
+    - body
+    - 15522
+    - 15522
+  label: §4.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-135
+    span:
+    - body
+    - 15577
+    - 15577
+  label: §4.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-136
+    span:
+    - body
+    - 15686
+    - 15686
+  label: §4.27
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-137
+    span:
+    - body
+    - 15747
+    - 15747
+  label: §4.28
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-138
+    span:
+    - body
+    - 15799
+    - 15799
+  label: §4.29
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-139
+    span:
+    - body
+    - 16020
+    - 16020
+  label: §4.30
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-140
+    span:
+    - body
+    - 16050
+    - 16050
+  label: §4.31
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-141
+    span:
+    - body
+    - 16171
+    - 16171
+  label: §4.32
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-142
+    span:
+    - body
+    - 16196
+    - 16196
+  label: §4.33
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-143
+    span:
+    - body
+    - 16232
+    - 16232
+  label: §4.34
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-144
+    span:
+    - body
+    - 16246
+    - 16246
+  label: §4.35
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-145
+    span:
+    - body
+    - 16302
+    - 16302
+  label: §4.36
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-146
+    span:
+    - body
+    - 16341
+    - 16341
+  label: §4.37
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-147
+    span:
+    - body
+    - 16672
+    - 16672
+  label: §4.38
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-148
+    span:
+    - body
+    - 16751
+    - 16751
+  label: §4.39
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-149
+    span:
+    - body
+    - 16844
+    - 16844
+  label: §4.40
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-150
+    span:
+    - body
+    - 16871
+    - 16871
+  label: §4.41
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-151
+    span:
+    - body
+    - 16898
+    - 16898
+  label: §4.42
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-152
+    span:
+    - body
+    - 16999
+    - 16999
+  label: §4.43
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-153
+    span:
+    - body
+    - 17086
+    - 17086
+  label: §4.44
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-154
+    span:
+    - body
+    - 17139
+    - 17139
+  label: §4.45
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-155
+    span:
+    - body
+    - 17148
+    - 17148
+  label: §4.46
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-156
+    span:
+    - body
+    - 17210
+    - 17210
+  label: §4.47
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-157
+    span:
+    - body
+    - 17273
+    - 17273
+  label: §4.48
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-158
+    span:
+    - body
+    - 17369
+    - 17369
+  label: §4.49
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-159
+    span:
+    - body
+    - 17394
+    - 17394
+  label: §4.50
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-160
+    span:
+    - body
+    - 17402
+    - 17402
+  label: §4.51
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-161
+    span:
+    - body
+    - 17414
+    - 17414
+  label: §4.52
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-162
+    span:
+    - body
+    - 17525
+    - 17525
+  label: §4.53
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-163
+    span:
+    - body
+    - 17648
+    - 17648
+  label: 第五章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-164
+    span:
+    - body
+    - 17651
+    - 17651
+  label: §5.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-165
+    span:
+    - body
+    - 18046
+    - 18046
+  label: §5.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-166
+    span:
+    - body
+    - 18152
+    - 18152
+  label: §5.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-167
+    span:
+    - body
+    - 18231
+    - 18231
+  label: §5.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-168
+    span:
+    - body
+    - 18366
+    - 18366
+  label: §5.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-169
+    span:
+    - body
+    - 18430
+    - 18430
+  label: §5.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-170
+    span:
+    - body
+    - 18497
+    - 18497
+  label: §5.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-171
+    span:
+    - body
+    - 18593
+    - 18593
+  label: §5.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-172
+    span:
+    - body
+    - 18659
+    - 18659
+  label: §5.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-173
+    span:
+    - body
+    - 18697
+    - 18697
+  label: §5.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-174
+    span:
+    - body
+    - 18757
+    - 18757
+  label: §5.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-175
+    span:
+    - body
+    - 18823
+    - 18823
+  label: §5.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-176
+    span:
+    - body
+    - 18914
+    - 18914
+  label: §5.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-177
+    span:
+    - body
+    - 18961
+    - 18961
+  label: §5.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-178
+    span:
+    - body
+    - 19091
+    - 19091
+  label: §5.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-179
+    span:
+    - body
+    - 19232
+    - 19232
+  label: §5.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-180
+    span:
+    - body
+    - 19394
+    - 19394
+  label: §5.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-181
+    span:
+    - body
+    - 19446
+    - 19446
+  label: §5.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-182
+    span:
+    - body
+    - 19457
+    - 19457
+  label: §5.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-183
+    span:
+    - body
+    - 19717
+    - 19717
+  label: §5.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-184
+    span:
+    - body
+    - 19754
+    - 19754
+  label: §5.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-185
+    span:
+    - body
+    - 19831
+    - 19831
+  label: §5.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-186
+    span:
+    - body
+    - 19946
+    - 19946
+  label: §5.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-187
+    span:
+    - body
+    - 19987
+    - 19987
+  label: §5.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-188
+    span:
+    - body
+    - 20076
+    - 20076
+  label: §5.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-189
+    span:
+    - body
+    - 20108
+    - 20108
+  label: §5.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-190
+    span:
+    - body
+    - 20221
+    - 20221
+  label: §5.27
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-191
+    span:
+    - body
+    - 20279
+    - 20279
+  label: §5.28
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-192
+    span:
+    - body
+    - 20352
+    - 20352
+  label: §5.29
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-193
+    span:
+    - body
+    - 20499
+    - 20499
+  label: §5.30
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-194
+    span:
+    - body
+    - 20514
+    - 20514
+  label: §5.31
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-195
+    span:
+    - body
+    - 20762
+    - 20762
+  label: §5.32
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-196
+    span:
+    - body
+    - 20880
+    - 20880
+  label: §5.33
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-197
+    span:
+    - body
+    - 21031
+    - 21031
+  label: §5.34
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-198
+    span:
+    - body
+    - 21209
+    - 21209
+  label: §5.35
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-199
+    span:
+    - body
+    - 21425
+    - 21425
+  label: §5.36
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-200
+    span:
+    - body
+    - 21535
+    - 21535
+  label: §5.37
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-201
+    span:
+    - body
+    - 21584
+    - 21584
+  label: §5.38
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-202
+    span:
+    - body
+    - 21623
+    - 21623
+  label: §5.39
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-203
+    span:
+    - body
+    - 21638
+    - 21638
+  label: §5.40
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-204
+    span:
+    - body
+    - 21714
+    - 21714
+  label: §5.41
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-205
+    span:
+    - body
+    - 21793
+    - 21793
+  label: §5.42
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-206
+    span:
+    - body
+    - 21801
+    - 21801
+  label: §5.43
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-207
+    span:
+    - body
+    - 21872
+    - 21872
+  label: §5.44
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-208
+    span:
+    - body
+    - 21900
+    - 21900
+  label: 第六章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-209
+    span:
+    - body
+    - 21903
+    - 21903
+  label: §6.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-210
+    span:
+    - body
+    - 22065
+    - 22065
+  label: §6.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-211
+    span:
+    - body
+    - 22207
+    - 22207
+  label: §6.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-212
+    span:
+    - body
+    - 22214
+    - 22214
+  label: §6.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-213
+    span:
+    - body
+    - 22305
+    - 22305
+  label: §6.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-214
+    span:
+    - body
+    - 22552
+    - 22552
+  label: §6.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-215
+    span:
+    - body
+    - 22768
+    - 22768
+  label: §6.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-216
+    span:
+    - body
+    - 22953
+    - 22953
+  label: §6.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-217
+    span:
+    - body
+    - 23035
+    - 23035
+  label: §6.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-218
+    span:
+    - body
+    - 23222
+    - 23222
+  label: §6.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-219
+    span:
+    - body
+    - 23483
+    - 23483
+  label: §6.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-220
+    span:
+    - body
+    - 23512
+    - 23512
+  label: §6.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-221
+    span:
+    - body
+    - 23544
+    - 23544
+  label: §6.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-222
+    span:
+    - body
+    - 23591
+    - 23591
+  label: §6.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-223
+    span:
+    - body
+    - 23650
+    - 23650
+  label: §6.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-224
+    span:
+    - body
+    - 23783
+    - 23783
+  label: §6.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-225
+    span:
+    - body
+    - 23926
+    - 23926
+  label: §6.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-226
+    span:
+    - body
+    - 23959
+    - 23959
+  label: §6.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-227
+    span:
+    - body
+    - 24060
+    - 24060
+  label: §6.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-228
+    span:
+    - body
+    - 24090
+    - 24090
+  label: §6.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-229
+    span:
+    - body
+    - 24240
+    - 24240
+  label: §6.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-230
+    span:
+    - body
+    - 24284
+    - 24284
+  label: §6.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-231
+    span:
+    - body
+    - 24342
+    - 24342
+  label: §6.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-232
+    span:
+    - body
+    - 24603
+    - 24603
+  label: §6.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-233
+    span:
+    - body
+    - 24632
+    - 24632
+  label: §6.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-234
+    span:
+    - body
+    - 24658
+    - 24658
+  label: §6.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-235
+    span:
+    - body
+    - 24699
+    - 24699
+  label: 第七章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-236
+    span:
+    - body
+    - 24702
+    - 24702
+  label: §7.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-237
+    span:
+    - body
+    - 24854
+    - 24854
+  label: §7.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-238
+    span:
+    - body
+    - 24938
+    - 24938
+  label: §7.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-239
+    span:
+    - body
+    - 25364
+    - 25364
+  label: §7.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-240
+    span:
+    - body
+    - 25393
+    - 25393
+  label: §7.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-241
+    span:
+    - body
+    - 25418
+    - 25418
+  label: §7.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-242
+    span:
+    - body
+    - 25529
+    - 25529
+  label: §7.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-243
+    span:
+    - body
+    - 25657
+    - 25657
+  label: §7.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-244
+    span:
+    - body
+    - 25682
+    - 25682
+  label: §7.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-245
+    span:
+    - body
+    - 25693
+    - 25693
+  label: §7.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-246
+    span:
+    - body
+    - 25701
+    - 25701
+  label: §7.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-247
+    span:
+    - body
+    - 25709
+    - 25709
+  label: §7.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-248
+    span:
+    - body
+    - 25779
+    - 25779
+  label: §7.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-249
+    span:
+    - body
+    - 25823
+    - 25823
+  label: §7.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-250
+    span:
+    - body
+    - 25834
+    - 25834
+  label: §7.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-251
+    span:
+    - body
+    - 25864
+    - 25864
+  label: §7.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-252
+    span:
+    - body
+    - 25994
+    - 25994
+  label: §7.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-253
+    span:
+    - body
+    - 26088
+    - 26088
+  label: §7.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-254
+    span:
+    - body
+    - 26190
+    - 26190
+  label: §7.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-255
+    span:
+    - body
+    - 26231
+    - 26231
+  label: §7.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-256
+    span:
+    - body
+    - 26264
+    - 26264
+  label: §7.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-257
+    span:
+    - body
+    - 26319
+    - 26319
+  label: §7.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-258
+    span:
+    - body
+    - 26368
+    - 26368
+  label: §7.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-259
+    span:
+    - body
+    - 26418
+    - 26418
+  label: §7.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-260
+    span:
+    - body
+    - 26510
+    - 26510
+  label: §7.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-261
+    span:
+    - body
+    - 26578
+    - 26578
+  label: §7.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-262
+    span:
+    - body
+    - 26637
+    - 26637
+  label: §7.27
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-263
+    span:
+    - body
+    - 26723
+    - 26723
+  label: §7.28
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-264
+    span:
+    - body
+    - 26785
+    - 26785
+  label: §7.29
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-265
+    span:
+    - body
+    - 26888
+    - 26888
+  label: §7.30
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-266
+    span:
+    - body
+    - 26951
+    - 26951
+  label: §7.31
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-267
+    span:
+    - body
+    - 27102
+    - 27102
+  label: §7.32
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-268
+    span:
+    - body
+    - 27170
+    - 27170
+  label: §7.33
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-269
+    span:
+    - body
+    - 27195
+    - 27195
+  label: §7.34
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-270
+    span:
+    - body
+    - 27311
+    - 27311
+  label: 第八章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-271
+    span:
+    - body
+    - 27314
+    - 27314
+  label: §8.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-272
+    span:
+    - body
+    - 27422
+    - 27422
+  label: §8.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-273
+    span:
+    - body
+    - 27488
+    - 27488
+  label: §8.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-274
+    span:
+    - body
+    - 27542
+    - 27542
+  label: §8.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-275
+    span:
+    - body
+    - 27581
+    - 27581
+  label: §8.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-276
+    span:
+    - body
+    - 27645
+    - 27645
+  label: §8.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-277
+    span:
+    - body
+    - 27739
+    - 27739
+  label: §8.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-278
+    span:
+    - body
+    - 27804
+    - 27804
+  label: §8.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-279
+    span:
+    - body
+    - 27922
+    - 27922
+  label: §8.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-280
+    span:
+    - body
+    - 27936
+    - 27936
+  label: §8.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-281
+    span:
+    - body
+    - 28786
+    - 28786
+  label: §8.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-282
+    span:
+    - body
+    - 28825
+    - 28825
+  label: §8.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-283
+    span:
+    - body
+    - 29316
+    - 29316
+  label: §8.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-284
+    span:
+    - body
+    - 29335
+    - 29335
+  label: §8.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-285
+    span:
+    - body
+    - 29394
+    - 29394
+  label: §8.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-286
+    span:
+    - body
+    - 29581
+    - 29581
+  label: §8.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-287
+    span:
+    - body
+    - 29620
+    - 29620
+  label: §8.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-288
+    span:
+    - body
+    - 29686
+    - 29686
+  label: §8.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-289
+    span:
+    - body
+    - 29719
+    - 29719
+  label: §8.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-290
+    span:
+    - body
+    - 29758
+    - 29758
+  label: §8.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-291
+    span:
+    - body
+    - 29777
+    - 29777
+  label: §8.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-292
+    span:
+    - body
+    - 29860
+    - 29860
+  label: §8.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-293
+    span:
+    - body
+    - 29932
+    - 29932
+  label: §8.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-294
+    span:
+    - body
+    - 30014
+    - 30014
+  label: §8.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-295
+    span:
+    - body
+    - 30068
+    - 30068
+  label: §8.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-296
+    span:
+    - body
+    - 30206
+    - 30206
+  label: §8.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-297
+    span:
+    - body
+    - 30286
+    - 30286
+  label: 第九章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-298
+    span:
+    - body
+    - 30289
+    - 30289
+  label: §9.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-299
+    span:
+    - body
+    - 30325
+    - 30325
+  label: §9.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-300
+    span:
+    - body
+    - 30371
+    - 30371
+  label: §9.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-301
+    span:
+    - body
+    - 30416
+    - 30416
+  label: §9.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-302
+    span:
+    - body
+    - 30453
+    - 30453
+  label: §9.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-303
+    span:
+    - body
+    - 30490
+    - 30490
+  label: §9.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-304
+    span:
+    - body
+    - 30599
+    - 30599
+  label: §9.7
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-305
+    span:
+    - body
+    - 30697
+    - 30697
+  label: §9.8
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-306
+    span:
+    - body
+    - 30748
+    - 30748
+  label: §9.9
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-307
+    span:
+    - body
+    - 30887
+    - 30887
+  label: §9.10
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-308
+    span:
+    - body
+    - 31136
+    - 31136
+  label: §9.11
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-309
+    span:
+    - body
+    - 31217
+    - 31217
+  label: §9.12
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-310
+    span:
+    - body
+    - 31427
+    - 31427
+  label: §9.13
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-311
+    span:
+    - body
+    - 31453
+    - 31453
+  label: §9.14
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-312
+    span:
+    - body
+    - 31484
+    - 31484
+  label: §9.15
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-313
+    span:
+    - body
+    - 31515
+    - 31515
+  label: §9.16
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-314
+    span:
+    - body
+    - 31590
+    - 31590
+  label: §9.17
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-315
+    span:
+    - body
+    - 31695
+    - 31695
+  label: §9.18
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-316
+    span:
+    - body
+    - 31806
+    - 31806
+  label: §9.19
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-317
+    span:
+    - body
+    - 31994
+    - 31994
+  label: §9.20
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-318
+    span:
+    - body
+    - 32072
+    - 32072
+  label: §9.21
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-319
+    span:
+    - body
+    - 32164
+    - 32164
+  label: §9.22
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-320
+    span:
+    - body
+    - 32334
+    - 32334
+  label: §9.23
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-321
+    span:
+    - body
+    - 32509
+    - 32509
+  label: §9.24
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-322
+    span:
+    - body
+    - 32576
+    - 32576
+  label: §9.25
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-323
+    span:
+    - body
+    - 32622
+    - 32622
+  label: §9.26
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-324
+    span:
+    - body
+    - 32700
+    - 32700
+  label: §9.27
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-325
+    span:
+    - body
+    - 32765
+    - 32765
+  label: §9.28
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-326
+    span:
+    - body
+    - 32805
+    - 32805
+  label: §9.29
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-327
+    span:
+    - body
+    - 32855
+    - 32855
+  label: §9.30
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-328
+    span:
+    - body
+    - 32892
+    - 32892
+  label: §9.31
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-329
+    span:
+    - body
+    - 32957
+    - 32957
+  label: §9.32
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-330
+    span:
+    - body
+    - 33081
+    - 33081
+  label: §9.33
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-331
+    span:
+    - body
+    - 33221
+    - 33221
+  label: §9.34
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-332
+    span:
+    - body
+    - 33291
+    - 33291
+  label: §9.35
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-333
+    span:
+    - body
+    - 33389
+    - 33389
+  label: §9.36
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-334
+    span:
+    - body
+    - 33497
+    - 33497
+  label: §9.37
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-335
+    span:
+    - body
+    - 33672
+    - 33672
+  label: §9.38
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-336
+    span:
+    - body
+    - 34024
+    - 34024
+  label: §9.39
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-337
+    span:
+    - body
+    - 34198
+    - 34198
+  label: §9.40
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-338
+    span:
+    - body
+    - 34242
+    - 34242
+  label: §9.41
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-339
+    span:
+    - body
+    - 34425
+    - 34425
+  label: §9.42
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-340
+    span:
+    - body
+    - 34577
+    - 34577
+  label: §9.43
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-341
+    span:
+    - body
+    - 34643
+    - 34643
+  label: §9.44
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-342
+    span:
+    - body
+    - 34719
+    - 34719
+  label: §9.45
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-343
+    span:
+    - body
+    - 34727
+    - 34727
+  label: §9.46
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-344
+    span:
+    - body
+    - 34923
+    - 34923
+  label: §9.47
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-345
+    span:
+    - body
+    - 35024
+    - 35024
+  label: §9.48
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-346
+    span:
+    - body
+    - 35185
+    - 35185
+  label: §9.49
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-347
+    span:
+    - body
+    - 35379
+    - 35379
+  label: 第十章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-348
+    span:
+    - body
+    - 35382
+    - 35382
+  label: §10.1
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-349
+    span:
+    - body
+    - 35482
+    - 35482
+  label: §10.2
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-350
+    span:
+    - body
+    - 35493
+    - 35493
+  label: §10.3
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-351
+    span:
+    - body
+    - 35545
+    - 35545
+  label: §10.4
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-352
+    span:
+    - body
+    - 35762
+    - 35762
+  label: §10.5
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-353
+    span:
+    - body
+    - 35795
+    - 35795
+  label: §10.6
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0028_ZW_001-mulu-354
+    span:
+    - body
+    - 36053
+    - 36053
+  label: §10.7
+  type: mulu
+  level: 1
+hash: sha256:1f4eca99eb5e9765c9cabaf8c5ac4125a7497258e4cbaefea3d5e59cf421ed6f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
